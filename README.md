@@ -34,6 +34,8 @@ Bu proje, PHP ve MySQL ve Bootstrap CSS kullanarak bir kullanıcı kayıt formu 
 3. `kullanicilar.php` dosyasını tarayıcıda açarak kayıtlı kullanıcıları görüntüleyin.
 http://localhost/kullanici_kayit_sistemi/form.html sayfasına gidin.
 
+
+https://github.com/enescivelek0/kullanici_kayit_sistemi/assets/60387787/4eec8db7-8221-4bc5-b4f0-607eeca905e4
 ![bandicam 2024-06-14 09-20-34-938](https://github.com/enescivelek0/kullanici_kayit_sistemi/assets/60387787/163e6e71-5350-46fc-b258-4e763ed75962)
 ![bandicam 2024-06-14 09-23-03-058](https://github.com/enescivelek0/kullanici_kayit_sistemi/assets/60387787/6d114012-8404-479c-bb71-836991ad14ab)
 ![bandicam 2024-06-14 09-23-08-881](https://github.com/enescivelek0/kullanici_kayit_sistemi/assets/60387787/51db3956-000e-4343-8f52-d532051bbf67)
